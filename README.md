@@ -1,3 +1,3 @@
 # bapple
 Plays bad apple in the browser
-![tb](https://yeetyourfiles.lol/download/447e4731-391c-4638-8aaf-ea60f75c04a1 "tb")
+![tb](https://yeetyourfiles.lol/download/73867978-ddb4-4806-9e8b-aea070736cfc "tb")
