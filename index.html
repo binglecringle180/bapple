@@ -1,29 +1,8 @@
 <!DOCTYPE html>
 <html>
-    <style>
-        body {
-            background-color: black;
-            text-align: center;
-        }
-        .video-container {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            width: 100%;
-            height: 100%; 
-            overflow: hidden;
-        }
-        .video-container video {
-        min-width: 100%; 
-        max-height: 100%; 
-        width: auto;
-        height: auto;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-        }
-    </style>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
     <body>
         <div class="video-container">
             <video controls loop src="badapple.mp4"></video>
